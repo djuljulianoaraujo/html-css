@@ -1,0 +1,62 @@
+SITES REFERENCIAS 
+
+.Referência MDN:
+Mozilla Developer Network
+
+.w3c Standards:
+Word Wide Web Consortium
+
+.WHATWG Living Standard:
+Web Hypertext Application Technology Working Group
+
+.W3Schools:
+Refsnes Date
+
+LIVROS REFERENCIAS:
+
+. Mark Pilgrim
+O'Reilly
+
+. Eric Meyer
+O'Reilly
+
+. Estelle weyl
+O'Reilly
+
+.Eric Meyer
+O'Reilly
+
+. Elizabeth Castro e Bruce Hylop
+Alta Books
+
+.Jon Duckett
+Alta Books
+
+.Elisabeth Robson E Eric Freeman
+Alta Books
+
+. Mauricio Samy Silva
+Novatec
+html5
+css3
+html5 e css3
+css grid layout
+
+LIVROS REFERENCIA DE DESIGNER
+
+.Curso de Designer gráfico
+David Dabner e outros
+GG
+
+.Designer
+Bob Maggie Gordon
+Senac
+
+.Eva Heller
+Psicologia das cores
+GG
+
+.Ellen Lupton
+Pensar em Tipos
+GG
+
